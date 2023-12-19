@@ -25,7 +25,7 @@ This project contains a PowerShell script that allows you to transfer a file to 
 
 4. **Monitor Execution :**
     - The script will display progress messages during the transfer.
-    - Check the shared folder on each remote computer to confirm the file reception.
+    - Check the shared folder on each computer to confirm the file reception.
 
 ## Examples
 

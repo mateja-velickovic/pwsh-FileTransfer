@@ -14,8 +14,8 @@ This project contains a PowerShell script that allows you to transfer a file to 
 
 1. **Clone the Project :**
     ```bash
-    git clone https://github.com/your-username/project-name.git
-    cd project-name
+    git clone https://github.com/mateja-velickovic/pwsh-fileTransfer.git
+    cd pwsh-fileTransfer
     ```
 
 2. **Run the Script :**
